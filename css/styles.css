@@ -1,0 +1,42 @@
+
+body{
+
+    margin: 0px;
+    padding: 0px;
+}
+.header{
+    background-color: lightgray;
+    height: 100px;
+}
+.content{
+    margin: 0px;
+    background-color:pink;
+    height: 400px;
+    
+}
+
+
+
+.block-title{
+    margin: 0;
+}
+.box{
+    float: left;
+    height: 200px;
+    width: 33.33%;
+    margin: 0;
+}
+.hosting{
+    margin: 0px;
+
+    background-color: yellow;
+}
+.soapbox{
+ 
+    padding: 0px;
+
+    background-color: green;
+}
+.explore{
+    background-color: blue;
+}
